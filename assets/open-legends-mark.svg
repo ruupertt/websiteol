@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title>Open Legends mark</title>
-  <rect width="64" height="64" rx="10" fill="#020805"/>
-  <path d="M14 21 6 32l8 11M50 21l8 11-8 11" fill="none" stroke="#21e483" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
-  <path d="m37 14-10 36" stroke="#f4fff8" stroke-width="4"/>
-</svg>
