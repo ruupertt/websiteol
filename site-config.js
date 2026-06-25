@@ -6,7 +6,7 @@
 */
 window.OPEN_LEGENDS_CONFIG = {
   // Paste ONLY the https://... URL from Autodesk's generated <iframe src="..."> code.
-  fusionEmbedUrl: "",
+  fusionEmbedUrl: ""https://mybbc244.autodesk360.com/shares/public/SH90d2dQT28d5b602811ae33c2d8c3a210de?mode=embed"",
 
   campaign: {
     // Use numbers only, or leave as null until your campaign is live.
